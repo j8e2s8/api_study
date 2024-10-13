@@ -20,4 +20,4 @@ def kde(df, palette='dark', alpha=0.5):
 	plt.show()  # for문 안에 있으면 그래프 1개씩 보여줌
 	
 
-    kde
+   
